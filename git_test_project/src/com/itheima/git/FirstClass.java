@@ -13,9 +13,11 @@ public class FirstClass {
         System.out.println("hello Git Project");
         System.out.println("hello Git Project");
         System.out.println("hello Git Project");
+        //hello test
     }
     public void test(){
         int i =0;
         i+=10;
+        System.out.println(i);
     }
 }
